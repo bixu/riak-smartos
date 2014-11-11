@@ -1,3 +1,6 @@
 default['riak']['release'] = '2.0'
 default['riak']['version'] = '2.0.2'
 default['riak']['smartos']['version'] = '13.1'
+default['riak']['http_port'] = '8098'
+default['riak']['protobuf_port'] = '8097'
+default['riak']['top_level_domain'] = 'example.com'

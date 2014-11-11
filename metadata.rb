@@ -7,3 +7,4 @@ long_description 'Installs/Configures Riak on smartos using the Basho packages'
 version          '0.1.0'
 
 suggests 'smf'
+depends 'line'
